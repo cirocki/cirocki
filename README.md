@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you.</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm Marcin :sparkles:, self-taught **Frontend Developer and webdesigner** from **Gdańsk, Poland**.
+I'm Marcin :sparkles:, self-taught **front-end developer and webdesigner** from **Gdańsk, Poland**.
 Some technologies I enjoy working with include ReactJS, Gatsby, GraphQL and GSAP. I like when apps work smooth, but also look unconventional and intriguing.
 I am open to collaborate on interesting projects.
 
