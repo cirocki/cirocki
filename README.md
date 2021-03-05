@@ -1,7 +1,8 @@
 <h1>Hey! Nice to see you.</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm Marcin, **Frontend Developer** from **Gdansk, Poland**.
+I'm Marcin, self-taught **Frontend Developer and webdesigner** from **Gdańsk, Poland**.
 Some technologies I enjoy working with include ReactJS, Gatsby, GraphQL and GSAP.
+
 In my free time I like to watch sport, movies, read books...
 I am open to collaborate on interesting projects.
 
