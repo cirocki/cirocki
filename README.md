@@ -2,6 +2,7 @@
 
 I'm Marcin :sparkles:, self-taught **Frontend Developer and webdesigner** from **Gdańsk, Poland**.
 Some technologies I enjoy working with include ReactJS, Gatsby, GraphQL and GSAP. I like when apps work smooth, but also look unconventional and intriguing.
+I am open to collaborate on interesting projects.
 
 <p>
 
@@ -22,6 +23,4 @@ Some technologies I enjoy working with include ReactJS, Gatsby, GraphQL and GSAP
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
-In my free time I like to watch sport, movies, read books...
-
-I am open to collaborate on interesting projects.
+In my free time I like sport, especially football, watching Netflix series, movies with Hugh Grant, League of Legends, aquscaping and more...
