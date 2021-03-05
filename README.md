@@ -17,6 +17,6 @@ I am open to collaborate on interesting projects.
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img alt="GatsbyJS" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
-<img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next-dot-js&logoColor=white" />
+<img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white" />
 
 </p>
