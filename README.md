@@ -1,14 +1,7 @@
-<div align="center" >
 <h1>Hey! Nice to see you.</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm Marcin, self-taught **Frontend Developer and webdesigner** from **Gdańsk, Poland**.
-Some technologies I enjoy working with include ReactJS, Gatsby, GraphQL and GSAP.
-
-In my free time I like to watch sport, movies, read books...
-
-I am open to collaborate on interesting projects.
-
-</div>
+I'm Marcin :sparkles:, self-taught **Frontend Developer and webdesigner** from **Gdańsk, Poland**.
+Some technologies I enjoy working with include ReactJS, Gatsby, GraphQL and GSAP. I like when apps work smooth, but also look unconventional and intriguing.
 
 <p>
 
@@ -27,5 +20,8 @@ I am open to collaborate on interesting projects.
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-
 </p>
+
+In my free time I like to watch sport, movies, read books...
+
+I am open to collaborate on interesting projects.
