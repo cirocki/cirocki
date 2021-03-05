@@ -4,7 +4,10 @@ I'm Marcin, self-taught **Frontend Developer and webdesigner** from **Gdańsk, P
 Some technologies I enjoy working with include ReactJS, Gatsby, GraphQL and GSAP.
 
 In my free time I like to watch sport, movies, read books...
+
+<div align="center">
 I am open to collaborate on interesting projects.
+</div>
 
 <p>
 
