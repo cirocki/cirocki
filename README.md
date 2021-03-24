@@ -21,6 +21,8 @@ I am open to collaborate on interesting projects.
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img alt="CodeWars" src="https://www.codewars.com/users/cirocki/badges/small" />
+
 </p>
 
 In my free time I like sport, especially football :soccer:, watching Netflix series :tv:, movies with Hugh Grant :clapper:, League of Legends :video_game:, aquascaping :tropical_fish: and more...
